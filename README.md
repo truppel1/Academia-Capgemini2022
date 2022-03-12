@@ -30,7 +30,7 @@ The site considers a password strong when it has satisfied the following rules:
 <br>
 <img src="https://user-images.githubusercontent.com/89888583/154783619-a2c9ff70-ae31-4c69-bf3a-29f3415341aa.gif" />
 <br>
-<p><h3> 3nd challenge </h3> </p>
+<p><h3> 3rd challenge </h3> </p>
 
 <p><h4>3. Two words can be considered anagrams of themselves if the letters in one word can be reassigned to form the other word. 
 Given any string, develop an algorithm that finds the number of pairs of substrings that are anagrams.
